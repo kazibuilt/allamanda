@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+    
+<!-- Mirrored from www.samara.com/jobs/modular-manufacturing-leader by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:20:57 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+        <title>Modular Manufacturing Leader – Jobs – Samara</title>
+
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="initial-scale=1, width=device-width, viewport-fit=cover"
+        />
+
+            <meta name="description" content="Full-time or consulting full-time/part-time." />
+
+        <meta name="author" content="Samara" />
+        <meta name="copyright" content="Samara, Inc." />
+
+        <meta property="og:site_name" content="Samara" />
+        <meta property="og:title" content="Modular Manufacturing Leader – Jobs – Samara" />
+        <meta property="og:type" content="website" />
+        <meta property="og:image" content="../assets/images/jobs/modular-manufacturing-leader.png" />
+        <meta
+            property="og:url"
+            content="modular-manufacturing-leader/index.html"
+        />
+
+            <meta property="og:description" content="Full-time or consulting full-time/part-time." />
+
+        <meta property="fb:app_id" content="495582180645280" />
+
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:site" content="@samara" />
+        <meta name="twitter:title" content="Modular Manufacturing Leader – Jobs – Samara" />
+
+            <meta name="twitter:description" content="Full-time or consulting full-time/part-time." />
+
+        <meta name="twitter:image" content="../assets/images/jobs/modular-manufacturing-leader.png" />
+
+        <meta name="theme-color" content="#000000" />
+
+
+        <link
+            rel="apple-touch-icon"
+            href="../assets/images/favicons/icon76x.png"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="../assets/images/favicons/icon180x.png"
+            sizes="180x180"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="../assets/images/favicons/icon152x.png"
+            sizes="152x152"
+        />
+        <link
+            rel="apple-touch-icon"
+            href="../assets/images/favicons/icon120x.png"
+            sizes="120x120"
+        />
+        <link
+            rel="shortcut icon"
+            href="../assets/images/favicons/icon64x.png"
+            sizes="64x64"
+            type="image/png"
+        />
+        <link
+            rel="icon"
+            type="image/png"
+            href="../assets/images/favicons/favicon.png"
+        />
+        <link
+            rel="preload"
+            href="../assets/fonts/regola-book.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+        <link
+            rel="preload"
+            href="../assets/fonts/regola-light.woff2"
+            as="font"
+            type="font/woff2"
+            crossorigin
+        />
+
+        <style>
+            html {
+                opacity: 0;
+                overflow-x: hidden;
+            }
+        </style>
+
+        <link href="../assets/stylesheets/index.css" rel="stylesheet" />
+
+            <script
+                id="sentry-script"
+                defer
+                src="../../js.sentry-cdn.com/6239eb46ed1b0d72b5c7186827b1f830.min.js"
+                crossorigin="anonymous"
+            ></script>
+
+            <script src="../assets/javascripts/trackers.js" defer="defer"></script>
+            <script
+                defer
+                src="../../www.googletagmanager.com/gtag/js060f?id=G-Y1SW8E75MN"
+            ></script>
+
+            <script src="../assets/javascripts/index.js"></script>
+            <script src="../assets/javascripts/calculator/bundle.js" defer="defer"></script>
+            <script src="../assets/javascripts/contact/bundle.js" defer="defer"></script>
+    </head>
+
+    <body class="no-javascript jobs job">
+    <nav class="main-navigation collapsed" data-tooltip-disabled>
+        <button class="toggle">
+            <span class="top">
+                <span></span>
+            </span>
+            <span class="bottom">
+                <span></span>
+            </span>
+        </button>
+
+    <a href="../index.html" class="logo">
+        <img
+            src="../assets/images/logo.svg"
+            width="116"
+            height="24"
+            alt="Samara"
+            loading="lazy"
+        />
+    </a>
+
+    <img
+        class="multiunit logo"
+        src="../assets/images/logo-multiunit.svg"
+        loading="lazy"
+        width="265"
+        height="23"
+        alt="Samara for developers"
+    />
+
+    <div class="main-navigation-list">
+        <ul>
+            <li><a href="../backyard" class="alt">Backyard</a></li>
+            <li class="backyard-menu-item"><a href="../backyard/how-it-works">How it works</a></li>
+            <li class="backyard-menu-item"><a href="../backyard/tech-specs">Tech specs</a></li>
+            <li class="backyard-menu-item"><a href="../backyard/faq">FAQ</a></li>
+            <li class="pages-menu-item"><a href="../news">News</a></li>
+            <li class="pages-menu-item"><a href="../jobs">Jobs</a></li>
+            <li class="pages-menu-item"><a href="../showrooms">Showrooms</a></li>
+        </ul>
+    </div>
+
+    <a href="../backyard/configure" class="backyard-configure button-rounded button-rounded-blue m-type-12">Configure now</a>
+
+    <a href="../developers" class="multiunit backyard-configure button-rounded button-rounded-blue">
+        <img src="../assets/images/icons/phone-white.svg" loading="lazy" alt="Phone icon" />
+        <span>Get in touch</span>
+    </a>
+</nav>
+
+
+    <main>
+        <div class="page">
+                
+<div class="spacer-32 m-spacer-0"></div>
+<div class="spacer-150 m-spacer-100"></div>
+
+<div class="modern-grid">
+    <div class="column-2 m-column-0"></div>
+    <div class="column-8 m-column-6">
+        <h1 class="type-48 m-type-36 type-center">
+            Modular Manufacturing Leader
+        </h1>
+    </div>
+</div>
+
+<div class="spacer-16 m-spacer-0"></div>
+<div class="spacer-72 m-spacer-60"></div>
+
+<div class="modern-grid">
+    <div class="column-2 m-column-0"></div>
+    <div class="column-8 m-column-6 type-18 m-type-15 job-description">
+        <p>Full-time or consulting full-time/part-time.</p>
+
+<p>Samara is looking for a Modular Manufacturing Leader to drive the development of new factory operations, expand our supply chain globally, and provide hands-on construction training specifically in our volumetric light gauge steel modular housing production. Our Backyard accessory dwelling units (ADUs) will be installed throughout California and expanding regions within the US. Our ADU is designed to be factory built and scaled within an efficient manufacturing process. This role will have responsibility for ramping up the factory and leading factory engineering, production, procurement, quality and trade/compliance. This manager will work closely within the Samara operations team to build our backlog and deliver on-time, high-quality products with a continuous improvement mindset.</p>
+
+<p>This is an in-person management position; all candidates will be required to travel to and potentially relocate for assignments on-site at our manufacturing locations.</p>
+
+<div><h2>Responsibilities</h2>
+
+<ul>
+<li>Direct responsible manager for all factory resource allocation including labor and materials, as well as the financial management, productivity, and quality performance</li>
+<li>Construction expertise specifically with CA rules, regulations, methods, etc to inform decision making in the factory</li>
+<li>Work effectively to hire talented department leads, coaches and captains, as well as create and lead training programs</li>
+<li>Allocate resources in a responsible manner, directing and controlling shifts, hours, overtime and temporary labor</li>
+<li>Work effectively with the Samara leadership and factory department teams to create an efficient supply chain while minimize production downtime and ensure factory planning, equipment maintenance, planning is performed on - schedule</li>
+<li>Act as primary point of contact between Samara Corporate and all factory departments including Engineering, Procurement, Trade/Compliance, Quality Control and Production</li>
+<li>Drive efficiency through continual monitoring of the total product flow, equipment, process methodology, on-the-job training of employees, writing and developing standard operating procedures (SOP), product quality, - product yields and safety excellence</li>
+<li>Responsible for developing and successfully implementing a system that continually adds value to our product, improves quality and reduces manufacturing errors</li>
+<li>Lead operational processes, projects and priorities focused on daily manufacturing</li>
+<li>Maintain manufacturing compliance with safety and regulatory requirements as directed by the Environmental, Health &amp; Safety department</li>
+<li>Direct the layout of equipment, workflow, process methods and workforce utilization as needed</li>
+<li>Deliver against plant performance KPIs, budget and projections</li>
+<li>Be responsible for understanding related aspects of production schedule and coordinating manufacturing requirements with schedulers and attend daily production meetings</li>
+<li>Review and approve hourly time cards for payroll processing</li>
+<li>Use your leadership ability to build, lead, mentor, develop, and grow highly functioning teams</li>
+</ul></div>
+
+<div><h2>Qualifications</h2>
+
+<ul>
+<li>10+ years of modular construction management experience in factory built housing, CA construction management, LGS steel construction or equivalent industries</li>
+<li>BS/MS in operations, construction management, mechanical engineering, industrial engineering or equivalent in experience</li>
+<li>Exceptional organizational and communication skills</li>
+<li>Knowledge of 5S, lean manufacturing, continuous improvement, and 6-Sigma principles</li>
+<li>Experience supporting process development, written documentation of processes, corrective actions</li>
+<li>Experience with equipment maintenance</li>
+<li>Spanish Language Skills Highly Recommended</li>
+<li>Someone who gets excited about solving a wide range of problems under tight timelines</li>
+<li>Data-driven and analytical approach to process development and improvement</li>
+<li>Collaborative, team-first mentality and passion for empowering those around you</li>
+<li>Ability to motivate cross-functional internal teams and external partners towards a common goal</li>
+</ul></div>
+
+    </div>
+</div>
+
+<div class="spacer-72 m-spacer-60"></div>
+
+<div class="modern-grid">
+    <div class="column-2 m-column-0"></div>
+    <div class="column-8 m-column-6 type-center job-get-in-touch">
+        <a href="mailto:jobs-modular-manufacturing-leader@samara.com?subject=Modular Manufacturing Leader">
+            Get in touch
+            <img src="../assets/images/box.svg" alt="External Link">
+        </a>
+    </div>
+</div>
+
+<div class="spacer-150"></div>
+
+<div class="footer-nav footer-nav-variant-light">
+    <div class="modern-grid">
+        <ul class="column-3">
+                <li><a href="../index.html">Samara</a></li>
+                <li><a href="../news">News</a></li>
+                <li><a href="../jobs">Jobs</a></li>
+                <li><a href="../showrooms">Showrooms</a></li>
+                <li><a href="../developers">For developers</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><a href="../backyard">Backyard</a></li>
+                <li><a href="../backyard/configure">Configure</a></li>
+                <li><a href="../backyard/how-it-works">How it works</a></li>
+                <li><a href="../backyard/tech-specs">Tech specs</a></li>
+                <li><a href="../backyard/faq">FAQ</a></li>
+        </ul>
+        <ul class="column-3">
+                <li><div class="m-spacer-24"></div>Social</li>
+                <li><a href="../../instagram.com/meetsamara/index.html" target="_blank">Instagram</a></li>
+                <li><a href="../../www.youtube.com/%40meetsamara/index.html" target="_blank">YouTube</a></li>
+                <li><a href="../../www.linkedin.com/company/meetsamara.html" target="_blank">LinkedIn</a></li>
+        </ul>
+
+        <div class="column-3 m-column-6 footer-contact">
+            <div class="m-spacer-32"></div>
+            <div class="m-spacer-16"></div>
+            <div class="type-14">Have questions?</div>
+            <button class="type-14" onclick="Contact.show({ variant: 'default' })">Contact us</button>
+            <div class="spacer-8"></div>
+            <div class="footer-contact-subscription">
+                <div class="type-14">Get updates</div>
+                <div class="type-14 footer-contact-secondary">Drop us your email to learn what’s next.</div>
+                <form class="footer-contact-input" action="https://www.samara.com/">
+                    <input type="email" class="type-14 m-type-16" required name="email" aria-label="Your email" tabindex="-1" />
+                    <input tabindex="-1" loading="lazy" type="image" src="../assets/images/icons/chevron-white.svg" alt="Submit">
+                    <div class="loader">
+                        <div></div>
+                        <div></div>
+                        <div></div>
+                    </div>
+                </form>
+                <div class="footer-contact-status">
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
+                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                    </div>
+                    <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
+                        Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="spacer-32"></div>
+    <div class="modern-grid type-14 footer-legal">
+        <div class="column-9 m-column-6">
+            © 2023 Samara Living Inc.
+            <div class="m-spacer-8"></div>
+        </div>
+        <div class="column-3 m-column-6">
+            <ol class="footnotes">
+                <li>“Net zero” may change for build sites with significant shading.</li>
+            </ol>
+            <a href="../privacy-policy">Privacy policy</a>
+            <a href="../terms-of-service">Terms of service</a>
+        </div>
+    </div>
+    <div class="m-spacer-16"></div>
+</div>
+
+
+
+        </div>
+    </main>
+
+    <div id="calculator"></div>
+    <div id="contact"></div>
+    <div id="tooltip" >
+    <div class="tooltip-container">
+        <svg class="arrow-left" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="../../www.w3.org/2000/svg.html">
+            <path d="M4.87021 0.000151566L5.8403 1.01123L2.57369 4.46575L15 4.46575L15 5.89811L2.57369 5.89811L5.8601 9.37369L4.89001 10.3848L-4.54847e-07 5.18193L4.87021 0.000151566Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+        <span class="type-18"></span>
+        <svg class="arrow-right" width="15" height="11" viewBox="0 0 15 11" fill="none" xmlns="../../www.w3.org/2000/svg.html">
+            <path d="M10.1298 10.3846L9.1597 9.37354L12.4263 5.91902H0V4.48666H12.4263L9.1399 1.01108L10.11 0L15 5.20284L10.1298 10.3846Z" fill="black" style="fill:black;fill:black;fill-opacity:1;"/>
+        </svg>
+    </div>
+</div>
+
+</body>
+
+
+<!-- Mirrored from www.samara.com/jobs/modular-manufacturing-leader by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:20:59 GMT -->
+</html>
