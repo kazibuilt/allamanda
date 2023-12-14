@@ -55,12 +55,11 @@
 
     <link href="/assets/stylesheets/index.css" rel="stylesheet" />
 
-    <script id="sentry-script" defer src="/../js.sentry-cdn.com/6239eb46ed1b0d72b5c7186827b1f830.min.js"
-        crossorigin="anonymous"></script>
-
-    <script src="/assets/javascripts/trackers.js" defer="defer"></script>
-    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-Y1SW8E75MN"></script>
-
+    <script src="imgix.js"></script>
+    <script>
+      imgix.config.host = 'assets.imgix.net';
+      imgix.config.useHttps = false;
+    </script>
     <script src="/assets/javascripts/index.js"></script>
     <script src="/assets/javascripts/calculator/bundle.js" defer="defer"></script>
     <script src="/assets/javascripts/contact/bundle.js" defer="defer"></script>
@@ -157,7 +156,7 @@
                         <h1 class="color-text-100" style="padding-top: 10vh">
                             Life's a
                             <div class="intro-elevation" style="width: calc(0.9em * 120 / 55)">
-                                <img srcset="/assets/images/home/intro/intro-flipflops-400.png 768w, /assets/images/home/intro/intro-flipflops-800.png"
+                                <img srcset="https://kazi-cdn.imgix.net/home/intro/intro-flipflops-400.png 768w, https://kazi-cdn.imgix.net/home/intro/intro-flipflops-800.png"
                                     alt="Dark bronze studio Backyard" style="left: calc(-0.9em * 120 / 65 * 0.23)" />
                             </div>
                             beach.<br class="mobile" /><br />
@@ -170,14 +169,14 @@
                             you
                             <div class="intro-elevation"
                                 style="width: calc(0.9em * 135 / 55); transform: translateX(-0.125em);">
-                                <img srcset="/assets/images/home/intro/sunglasses-400.png 768w, /assets/images/home/intro/intro-sunglasses-800.png"
+                                <img srcset="https://kazi-cdn.imgix.net/home/intro/sunglasses-400.png 768w, https://kazi-cdn.imgix.net/home/intro/intro-sunglasses-800.png"
                                     alt="Bone white one bedroom Backyard"
                                     style="left: calc(-0.9em * 150 / 65 * 0.08)" />
                             </div>
                             <br class="mobile" />
                             have
                             <div class="intro-elevation mobile" style="width: calc(0.9em * 250 / 75)">
-                                <img srcset="/assets/images/home/intro/intro-snorkel2-400.png 768w, /assets/images/home/intro/intro-snorkel2-800.png"
+                                <img srcset="https://kazi-cdn.imgix.net/home/intro/intro-snorkel2-400.png 768w, https://kazi-cdn.imgix.net/home/intro/intro-snorkel2-800.png"
                                     alt="Evergreen two bedroom Backyard"
                                     style="left: calc(-0.9em * 250 / 75 * 0.15); height: 0.845em; top: -0.75em" />
                             </div>
@@ -186,7 +185,7 @@
                             
                             <br class="mobile" />dreamt for. 
                             <div class="intro-elevation desktop" style="width: calc(0.9em * 250 / 75)">
-                                <img srcset="/assets/images/home/intro/intro-snorkel2-400.png 768w, /assets/images/home/intro/intro-snorkel2-800.png"
+                                <img srcset="https://kazi-cdn.imgix.net/home/intro/intro-snorkel2-400.png 768w, https://kazi-cdn.imgix.net/home/intro/intro-snorkel2-800.png"
                                     alt="Evergreen two bedroom Backyard"
                                     style="left: calc(-0.9em * 250 / 75 * 0.15); height: 0.845em; top: -0.75em" />
                             </div>
@@ -212,32 +211,32 @@
                             <div class="infinite-slideshow-spacer">
                                 <div class="infinite-slideshow-item">
                                     <img alt="Two bedroom" srcset="
-                            /assets/images/backyard/hero-twobed-portrait/hero-twobed-portrait-1005.jpg 768w,
-                            /assets/images/backyard/two-bedroom-hero/two-bedroom-hero-2210.jpg
+                                    https://kazi-cdn.imgix.net/backyard/hero-twobed-portrait/hero-twobed-portrait-1005.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=1005&h=1787 768w,
+                                    https://kazi-cdn.imgix.net/backyard/two-bedroom-hero/two-bedroom-hero-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=2880&h=2160
                         " loading="lazy" width="2210" height="1658" />
                                 </div>
                                 <div class="infinite-slideshow-item">
                                     <img alt="Two bedroom" srcset="
-                            /assets/images/backyard/hero-onebed-portrait/hero-onebed-portrait-1005.jpg 768w,
-                            /assets/images/backyard/green/green-2210.jpg
+                                    https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=1005&h=1787 768w,
+                                    https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=2880&h=2160
                         " loading="lazy" width="2210" height="1658" />
                                 </div>
                                 <div class="infinite-slideshow-item">
                                     <img alt="Studio" srcset="
-                            /assets/images/backyard/hero-studio-portrait/hero-studio-portrait-1005.jpg 768w,
-                            /assets/images/backyard/hollywood/hollywood-2210.jpg
+                                    https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=1005&h=1787 768w,
+                                    https://kazi-cdn.imgix.net/backyard/hollywood/hollywood-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=2880&h=2160
                         " loading="lazy" width="2210" height="1658" />
                                 </div>
                                 <div class="infinite-slideshow-item">
                                     <img alt="Two bedroom" srcset="
-                            /assets/images/backyard/hero-twobed-portrait/hero-twobed-portrait-1005.jpg 768w,
-                            /assets/images/backyard/two-bedroom-hero/two-bedroom-hero-2210.jpg
+                                    https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=1005&h=1787 768w,
+                                    https://kazi-cdn.imgix.net/backyard/two-bedroom-hero/two-bedroom-hero-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=2880&h=2160
                         " loading="lazy" width="2210" height="1658" />
                                 </div>
                                 <div class="infinite-slideshow-item">
                                     <img alt="Two bedroom" srcset="
-                            /assets/images/backyard/hero-onebed-portrait/hero-onebed-portrait-1005.jpg 768w,
-                            /assets/images/backyard/green/green-2210.jpg
+                            https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=1005&h=1787 768w,
+                            https://kazi-cdn.imgix.net/backyard/green/green-2210.jpg?auto=compress,enhance,format&fit=crop&crop=focalpoint&w=2880&h=2160
                         " loading="lazy" width="2210" height="1658" />
                                 </div>
                             </div>
