@@ -827,7 +827,7 @@ function loadStyles(e) {
     }), 2e3)
 })), window.Backyard = window.Backyard || {}, Backyard.invertNavigation = function () {
     const e = document.getElementsByTagName("nav")[0],
-        t = Array.from(document.querySelectorAll(".slides > *, article > *"));
+        t = Array.from(document.querySelectorAll(".sections > *, article > *"));
 
     function a() {
         const a = window.innerWidth < 768,
