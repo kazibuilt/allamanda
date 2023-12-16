@@ -6257,7 +6257,9 @@ body.segue {
         display: flex;
         position: relative;
         width: 100vw;
-        min-height: 100vh
+        height: 100vh;
+        scroll-snap-align: end!important;
+        scroll-snap-stop:always;
 }
 
 .backyard .slide .column {
