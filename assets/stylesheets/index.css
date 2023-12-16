@@ -249,7 +249,7 @@ body.jobs {
 }
 
 .jobs footer {
-        min-height: 100vh
+        min-height: unset
 }
 
 .jobs footer button {
@@ -303,7 +303,7 @@ main .jobs {
 
 .jobs.content .wrapper {
         width: 100vw;
-        min-height: 100vh
+        min-height: unset
 }
 
 .jobs h1 {
@@ -2493,7 +2493,7 @@ h6 {
         flex-direction: column;
         align-items: center;
         background: linear-gradient(180deg, #fff 0, #fdfdf7 100%);
-        min-height: 100vh
+        min-height: unset
 }
 
 .backyard .section .intro-carousel-container {
@@ -2530,7 +2530,7 @@ h6 {
         align-items: center;
         background: var(--color-biege);
         height: auto;
-        
+        min-height: 100vh
 }
 
 .backyard .sections .intro-carousel .mobile {
@@ -4117,7 +4117,7 @@ h6 {
                 align-items: flex-start;
                 margin: 0 -12px 12px;
                 padding: 21px 18px 30px;
-                min-height: 100vh
+                min-height: unset
         }
 
         .bento-better-future-card-header {
@@ -4203,7 +4203,7 @@ h6 {
 @media (max-width:768px) {
         .bento-better-future-card p {
                 width: 100%;
-                min-height: 100vh
+                min-height: unset
         }
 
         .bento-details-card {
@@ -4392,7 +4392,7 @@ input:checked+.bento-details-card-icon div:last-child {
         background: #fdfdf7;
         padding: 0 var(--modern-grid-column-margin);
         aspect-ratio: 1440/552;
-        min-height: 100vh !important
+        min-height: unset !important
 }
 
 .configure-now .modern-grid {
@@ -4508,12 +4508,12 @@ body.faq {
 
 .backyard .backyard-faq .row {
         height: unset;
-        min-height: 100vh
+        min-height: unset
 }
 
 .backyard .backyard-faq .section {
         flex-direction: column;
-        min-height: 100vh;
+        min-height: unset;
         overflow: unset
 }
 
@@ -4749,7 +4749,7 @@ body.faq {
         flex-direction: column;
         background: #000;
         aspect-ratio: 0.85;
-        min-height: 100vh;
+        min-height: unset;
         color: #fff
 }
 
@@ -5461,7 +5461,7 @@ body.how-it-works {
         background-size: cover;
         aspect-ratio: 1440/700;
         width: 100vw;
-        min-height: 100vh
+        min-height: unset
 }
 
 .backyard .how-it-works .timeline li img {
@@ -6407,7 +6407,7 @@ a.rounded.yellow {
 .backyard .backyard-basement {
         flex-direction: column;
         background: var(--color-biege);
-        min-height: 100vh
+        min-height: unset
 }
 
 .ice {
@@ -7510,7 +7510,7 @@ nav.inverted ul a {
                 padding-top: 0;
                 width: 45px;
                 height: 42px;
-                min-height: 100vh
+                min-height: unset
         }
 
         .configurator nav ul,
