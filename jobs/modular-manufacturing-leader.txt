@@ -4,7 +4,7 @@
 <!-- Mirrored from www.samara.com/jobs/modular-manufacturing-leader by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:20:57 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-        <title>Modular Manufacturing Leader – Jobs – Samara</title>
+        <title>Modular Manufacturing Leader – Jobs – Allamanda</title>
 
         <meta charset="utf-8" />
         <meta
@@ -14,11 +14,11 @@
 
             <meta name="description" content="Full-time or consulting full-time/part-time." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Allamanda" />
+        <meta name="copyright" content="Allamanda" />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Modular Manufacturing Leader – Jobs – Samara" />
+        <meta property="og:site_name" content="Allamanda" />
+        <meta property="og:title" content="Modular Manufacturing Leader – Jobs – Allamanda" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="../assets/images/jobs/modular-manufacturing-leader.png" />
         <meta
@@ -31,8 +31,8 @@
         <meta property="fb:app_id" content="495582180645280" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Modular Manufacturing Leader – Jobs – Samara" />
+        <meta name="twitter:site" content="@allamanda_ke" />
+        <meta name="twitter:title" content="Modular Manufacturing Leader – Jobs – Allamanda" />
 
             <meta name="twitter:description" content="Full-time or consulting full-time/part-time." />
 
@@ -129,7 +129,7 @@
             src="../assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Allamanda"
             loading="lazy"
         />
     </a>
@@ -140,7 +140,7 @@
         loading="lazy"
         width="265"
         height="23"
-        alt="Samara for developers"
+        alt="Allamanda for developers"
     />
 
     <div class="main-navigation-list">
@@ -187,7 +187,7 @@
     <div class="column-8 m-column-6 type-18 m-type-15 job-description">
         <p>Full-time or consulting full-time/part-time.</p>
 
-<p>Samara is looking for a Modular Manufacturing Leader to drive the development of new factory operations, expand our supply chain globally, and provide hands-on construction training specifically in our volumetric light gauge steel modular housing production. Our Backyard accessory dwelling units (ADUs) will be installed throughout California and expanding regions within the US. Our ADU is designed to be factory built and scaled within an efficient manufacturing process. This role will have responsibility for ramping up the factory and leading factory engineering, production, procurement, quality and trade/compliance. This manager will work closely within the Samara operations team to build our backlog and deliver on-time, high-quality products with a continuous improvement mindset.</p>
+<p>Allamanda is looking for a Modular Manufacturing Leader to drive the development of new factory operations, expand our supply chain globally, and provide hands-on construction training specifically in our volumetric light gauge steel modular housing production. Our Backyard accessory dwelling units (ADUs) will be installed throughout California and expanding regions within the US. Our ADU is designed to be factory built and scaled within an efficient manufacturing process. This role will have responsibility for ramping up the factory and leading factory engineering, production, procurement, quality and trade/compliance. This manager will work closely within the Allamanda operations team to build our backlog and deliver on-time, high-quality products with a continuous improvement mindset.</p>
 
 <p>This is an in-person management position; all candidates will be required to travel to and potentially relocate for assignments on-site at our manufacturing locations.</p>
 
@@ -198,8 +198,8 @@
 <li>Construction expertise specifically with CA rules, regulations, methods, etc to inform decision making in the factory</li>
 <li>Work effectively to hire talented department leads, coaches and captains, as well as create and lead training programs</li>
 <li>Allocate resources in a responsible manner, directing and controlling shifts, hours, overtime and temporary labor</li>
-<li>Work effectively with the Samara leadership and factory department teams to create an efficient supply chain while minimize production downtime and ensure factory planning, equipment maintenance, planning is performed on - schedule</li>
-<li>Act as primary point of contact between Samara Corporate and all factory departments including Engineering, Procurement, Trade/Compliance, Quality Control and Production</li>
+<li>Work effectively with the Allamanda leadership and factory department teams to create an efficient supply chain while minimize production downtime and ensure factory planning, equipment maintenance, planning is performed on - schedule</li>
+<li>Act as primary point of contact between Allamanda Corporate and all factory departments including Engineering, Procurement, Trade/Compliance, Quality Control and Production</li>
 <li>Drive efficiency through continual monitoring of the total product flow, equipment, process methodology, on-the-job training of employees, writing and developing standard operating procedures (SOP), product quality, - product yields and safety excellence</li>
 <li>Responsible for developing and successfully implementing a system that continually adds value to our product, improves quality and reduces manufacturing errors</li>
 <li>Lead operational processes, projects and priorities focused on daily manufacturing</li>
@@ -247,7 +247,7 @@
 <div class="footer-nav footer-nav-variant-light">
     <div class="modern-grid">
         <ul class="column-3">
-                <li><a href="../index.html">Samara</a></li>
+                <li><a href="../index.html">Allamanda</a></li>
                 <li><a href="../news">News</a></li>
                 <li><a href="../jobs">Jobs</a></li>
                 <li><a href="../showrooms">Showrooms</a></li>
@@ -287,7 +287,7 @@
                 </form>
                 <div class="footer-contact-status">
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
-                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Allamanda updates.
                     </div>
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
                         Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
@@ -299,7 +299,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2023 Samara Living Inc.
+            © 2023 Allamanda Living Inc.
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

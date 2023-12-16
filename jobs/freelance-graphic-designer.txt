@@ -4,7 +4,7 @@
 <!-- Mirrored from www.samara.com/jobs/freelance-graphic-designer by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:21:01 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-        <title>Freelance Graphic Designer – Jobs – Samara</title>
+        <title>Freelance Graphic Designer – Jobs – Allamanda</title>
 
         <meta charset="utf-8" />
         <meta
@@ -14,11 +14,11 @@
 
             <meta name="description" content="We’re looking for a graphic designer with a sense of style and expertise working across a wide range of media." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Allamanda" />
+        <meta name="copyright" content="Allamanda" />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Freelance Graphic Designer – Jobs – Samara" />
+        <meta property="og:site_name" content="Allamanda" />
+        <meta property="og:title" content="Freelance Graphic Designer – Jobs – Allamanda" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="../assets/images/jobs/freelance-graphic-designer.png" />
         <meta
@@ -31,8 +31,8 @@
         <meta property="fb:app_id" content="495582180645280" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Freelance Graphic Designer – Jobs – Samara" />
+        <meta name="twitter:site" content="@allamanda_ke" />
+        <meta name="twitter:title" content="Freelance Graphic Designer – Jobs – Allamanda" />
 
             <meta name="twitter:description" content="We’re looking for a graphic designer with a sense of style and expertise working across a wide range of media." />
 
@@ -129,7 +129,7 @@
             src="../assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Allamanda"
             loading="lazy"
         />
     </a>
@@ -140,7 +140,7 @@
         loading="lazy"
         width="265"
         height="23"
-        alt="Samara for developers"
+        alt="Allamanda for developers"
     />
 
     <div class="main-navigation-list">
@@ -190,8 +190,8 @@
 <div><h2>Once here you will:</h2>
 
 <ul>
-<li>Collaborate with Samara’s brand and marketing team to bring design concepts to life, ranging from print media, web/app, UI/UX, slide decks, business reports and billboards</li>
-<li>Ensure that Samara’s visual language works consistently across different mediums</li>
+<li>Collaborate with Allamanda’s brand and marketing team to bring design concepts to life, ranging from print media, web/app, UI/UX, slide decks, business reports and billboards</li>
+<li>Ensure that Allamanda’s visual language works consistently across different mediums</li>
 <li>Create comprehensive specs that show exactly how designs will work on different screens and devices</li>
 <li>Create clear hierarchical typographic systems that meet accessibility standards for customer-facing web/mobile interfaces, as well as print/PDF publications</li>
 </ul></div>
@@ -232,7 +232,7 @@
 <div class="footer-nav footer-nav-variant-light">
     <div class="modern-grid">
         <ul class="column-3">
-                <li><a href="../index.html">Samara</a></li>
+                <li><a href="../index.html">Allamanda</a></li>
                 <li><a href="../news">News</a></li>
                 <li><a href="../jobs">Jobs</a></li>
                 <li><a href="../showrooms">Showrooms</a></li>
@@ -272,7 +272,7 @@
                 </form>
                 <div class="footer-contact-status">
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
-                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Allamanda updates.
                     </div>
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
                         Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
@@ -284,7 +284,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2023 Samara Living Inc.
+            © 2023 Allamanda Living Inc.
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

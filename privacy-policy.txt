@@ -4,7 +4,7 @@
 <!-- Mirrored from www.samara.com/privacy-policy by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:20:44 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-        <title>Privacy Policy – Samara</title>
+        <title>Privacy Policy – Allamanda</title>
 
         <meta charset="utf-8" />
         <meta
@@ -13,11 +13,11 @@
         />
 
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Allamanda" />
+        <meta name="copyright" content="Allamanda" />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Privacy Policy – Samara" />
+        <meta property="og:site_name" content="Allamanda" />
+        <meta property="og:title" content="Privacy Policy – Allamanda" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="assets/remote/94f4f098-aa84-4d11-1b87-65836380a800.png" />
         <meta
@@ -29,8 +29,8 @@
         <meta property="fb:app_id" content="495582180645280" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Privacy Policy – Samara" />
+        <meta name="twitter:site" content="@allamanda_ke" />
+        <meta name="twitter:title" content="Privacy Policy – Allamanda" />
 
 
         <meta name="twitter:image" content="assets/remote/94f4f098-aa84-4d11-1b87-65836380a800.png" />
@@ -126,7 +126,7 @@
             src="assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Allamanda"
             loading="lazy"
         />
     </a>
@@ -137,7 +137,7 @@
         loading="lazy"
         width="265"
         height="23"
-        alt="Samara for developers"
+        alt="Allamanda for developers"
     />
 
     <div class="main-navigation-list">
@@ -164,12 +164,12 @@
     <main>
         <div class="page">
                 <div class="row">
-<h1>Samara<br>Privacy Policy</h1>
+<h1>Allamanda<br>Privacy Policy</h1>
 
 <div class="text">
 <p>Last Updated: November 14, 2022</p>
 
-<p>This Privacy Policy is designed to help you understand how Samara Living Inc. (“Samara,” “we,” “us,” or “our”) collects, uses, processes, and shares your personal information, and to help you understand and exercise your privacy rights.</p>
+<p>This Privacy Policy is designed to help you understand how Allamanda Living Inc. (“Allamanda,” “we,” “us,” or “our”) collects, uses, processes, and shares your personal information, and to help you understand and exercise your privacy rights.</p>
 
 <h2>Ⅰ. Scope to this privacy policy</h2>
 
@@ -365,12 +365,12 @@
 
 <h2>Ⅻ. Contact us</h2>
 
-<p>Samara is the controller of the personal information we process under this Privacy Policy.</p>
+<p>Allamanda is the controller of the personal information we process under this Privacy Policy.</p>
 
 <p>If you have any questions about our privacy practices or this Privacy Policy, or to exercise your rights as detailed in this Privacy Policy, please contact us at:</p>
 
 <p>
-Samara Living Inc.<br>privacy@samara.com
+Allamanda Living Inc.<br>privacy@samara.com
 </p>
 </div>
 </div>
@@ -378,7 +378,7 @@ Samara Living Inc.<br>privacy@samara.com
 <div class="footer-nav footer-nav-variant-light">
     <div class="modern-grid">
         <ul class="column-3">
-                <li><a href="index.html">Samara</a></li>
+                <li><a href="index.html">Allamanda</a></li>
                 <li><a href="news">News</a></li>
                 <li><a href="jobs">Jobs</a></li>
                 <li><a href="showrooms">Showrooms</a></li>
@@ -418,7 +418,7 @@ Samara Living Inc.<br>privacy@samara.com
                 </form>
                 <div class="footer-contact-status">
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
-                        <img loading="lazy" src="assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                        <img loading="lazy" src="assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Allamanda updates.
                     </div>
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
                         Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
@@ -430,7 +430,7 @@ Samara Living Inc.<br>privacy@samara.com
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2023 Samara Living Inc.
+            © 2023 Allamanda Living Inc.
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">
