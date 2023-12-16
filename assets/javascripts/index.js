@@ -1232,7 +1232,7 @@ Backyard.loadImagesLazily = function() {
 }
 )(),
 window.Backyard = window.Backyard || {},
-Backyard.threeSizes = function() {
+/* Backyard.threeSizes = function() {
     const e = [[279e3, 1671], [299e3, 1790], [339e3, 2030]]
       , t = {
         desktop: [[0, .33, 0, 34], [0, .66, -29.5, 29.5], [.33, .66, -24, 0]],
@@ -1383,7 +1383,7 @@ Backyard.threeSizes = function() {
         window.removeEventListener("resize", h)
     }
 }
-,
+, */
 "complete" === document.readyState && document.body.classList.add("complete"),
 window.addEventListener("load", (()=>{
     document.body.classList.add("complete")
