@@ -4,7 +4,7 @@
 <!-- Mirrored from www.samara.com/backyard/faq by HTTrack Website Copier/3.x [XR&CO'2014], Wed, 13 Dec 2023 01:19:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
-        <title>Backyard – Frequently Asked Questions – Samara</title>
+        <title>Backyard – Frequently Asked Questions – Allamanda</title>
 
         <meta charset="utf-8" />
         <meta
@@ -14,11 +14,11 @@
 
             <meta name="description" content="Find answers to the most asked questions about Backyard: building regulations, financial planning, construction, and more." />
 
-        <meta name="author" content="Samara" />
-        <meta name="copyright" content="Samara, Inc." />
+        <meta name="author" content="Allamanda" />
+        <meta name="copyright" content="Allamanda" />
 
-        <meta property="og:site_name" content="Samara" />
-        <meta property="og:title" content="Backyard – Frequently Asked Questions – Samara" />
+        <meta property="og:site_name" content="Allamanda" />
+        <meta property="og:title" content="Backyard – Frequently Asked Questions – Allamanda" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="../assets/remote/525b3d2c-6270-4ef5-d824-ecd2f4edd000.png" />
         <meta
@@ -31,8 +31,8 @@
         <meta property="fb:app_id" content="495582180645280" />
 
         <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:site" content="@samara" />
-        <meta name="twitter:title" content="Backyard – Frequently Asked Questions – Samara" />
+        <meta name="twitter:site" content="@allamanda_ke" />
+        <meta name="twitter:title" content="Backyard – Frequently Asked Questions – Allamanda" />
 
             <meta name="twitter:description" content="Find answers to the most asked questions about Backyard: building regulations, financial planning, construction, and more." />
 
@@ -129,7 +129,7 @@
             src="../assets/images/logo.svg"
             width="116"
             height="24"
-            alt="Samara"
+            alt="Allamanda"
             loading="lazy"
         />
     </a>
@@ -140,7 +140,7 @@
         loading="lazy"
         width="265"
         height="23"
-        alt="Samara for developers"
+        alt="Allamanda for developers"
     />
 
     <div class="main-navigation-list">
@@ -167,7 +167,7 @@
     <main>
         <div class="page">
                 
-<div class="slides backyard-faq">
+<div class="sections backyard-faq">
     <div class="spacer-150 m-spacer-100"></div>
     <div class="spacer-150 m-spacer-0"></div>
     <div class="spacer-72 m-spacer-0"></div>
@@ -848,7 +848,7 @@
 <div class="footer-nav footer-nav-variant-light">
     <div class="modern-grid">
         <ul class="column-3">
-                <li><a href="../index.html">Samara</a></li>
+                <li><a href="../index.html">Allamanda</a></li>
                 <li><a href="../news">News</a></li>
                 <li><a href="../jobs">Jobs</a></li>
                 <li><a href="../showrooms">Showrooms</a></li>
@@ -888,7 +888,7 @@
                 </form>
                 <div class="footer-contact-status">
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-success-note">
-                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Samara updates.
+                        <img loading="lazy" src="../assets/images/icons/checkmark-white.svg" width="12" height="12" alt="Checkmark"> You’ve subscribed to Allamanda updates.
                     </div>
                     <div class="type-14 footer-contact-secondary footer-contact-subscription-failure-note">
                         Something went wrong.<br /><a href="mailto:customercare@samara.com?subject=Site error: joining mailing list">Click here</a> to subscribe via email.
@@ -900,7 +900,7 @@
     <div class="spacer-32"></div>
     <div class="modern-grid type-14 footer-legal">
         <div class="column-9 m-column-6">
-            © 2023 Samara Living Inc.
+            © 2023 Allamanda Living Inc.
             <div class="m-spacer-8"></div>
         </div>
         <div class="column-3 m-column-6">

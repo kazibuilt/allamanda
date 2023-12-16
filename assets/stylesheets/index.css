@@ -2489,14 +2489,14 @@ h6 {
         }
 }
 
-.backyard .slide.intro-carousel-new {
+.backyard .section.intro-carousel-new {
         flex-direction: column;
         align-items: center;
         background: linear-gradient(180deg, #fff 0, #fdfdf7 100%);
-        min-height: unset
+        min-height: 100vh
 }
 
-.backyard .slide .intro-carousel-container {
+.backyard .section .intro-carousel-container {
         aspect-ratio: 1440/735;
         width: 100%;
         height: auto
@@ -2523,7 +2523,7 @@ h6 {
         height: calc(100% - 10px)
 }
 
-.backyard .slides .intro-carousel {
+.backyard .sections .intro-carousel {
         display: flex;
         position: relative;
         flex-direction: column;
@@ -2533,27 +2533,27 @@ h6 {
         min-height: unset
 }
 
-.backyard .slides .intro-carousel .mobile {
+.backyard .sections .intro-carousel .mobile {
         display: none
 }
 
-.backyard .slides .intro-carousel-layout {
+.backyard .sections .intro-carousel-layout {
         display: flex;
         align-items: center;
         gap: 10px
 }
 
-.backyard .slides .intro-carousel-layout .type-15 {
+.backyard .sections .intro-carousel-layout .type-15 {
         position: relative;
         top: 2.5px
 }
 
-.backyard .slides .intro-carousel-layout .type-18 {
+.backyard .sections .intro-carousel-layout .type-18 {
         position: relative;
         top: 1.5px
 }
 
-.backyard .slides .intro-carousel h1 br {
+.backyard .sections .intro-carousel h1 br {
         display: none
 }
 
@@ -2586,17 +2586,17 @@ h6 {
                 letter-spacing: 0 !important
         }
 
-        .backyard .slides .intro-carousel h1 {
+        .backyard .sections .intro-carousel h1 {
                 margin-bottom: 32px;
                 text-align: center
         }
 
-        .backyard .slides .intro-carousel h1 br {
+        .backyard .sections .intro-carousel h1 br {
                 display: unset
         }
 }
 
-.backyard .slides .intro {
+.backyard .sections .intro {
         display: grid;
         grid-template-columns: repeat(12, [col-start] 1fr);
         gap: 22px;
@@ -2605,11 +2605,11 @@ h6 {
         box-sizing: border-box;
         background: #fff;
         padding: 0 3vw;
-        min-height: unset;
+        min-height: 100vh;
         overflow-x: hidden
 }
 
-.intro-complete.backyard .slides .intro {
+.intro-complete.backyard .sections .intro {
         opacity: 1;
         animation: none
 }
@@ -2626,11 +2626,11 @@ h6 {
         }
 }
 
-.backyard .slides .intro-container {
+.backyard .sections .intro-container {
         grid-column: col-start 2/span 10
 }
 
-.backyard .slides .intro h1 {
+.backyard .sections .intro h1 {
         position: relative;
         background: #fff;
         font-size: 6.67vw;
@@ -2640,46 +2640,46 @@ h6 {
         white-space: nowrap
 }
 
-.backyard .slides .intro h1 .part {
+.backyard .sections .intro h1 .part {
         display: inline;
         transition: color .3s;
         color: var(--color-black-10)
 }
 
-.backyard .slides .intro h1 .part.active {
+.backyard .sections .intro h1 .part.active {
         transition: color .6s;
         color: #000
 }
 
-.backyard .slides .intro h1 span[data-sentence].active {
+.backyard .sections .intro h1 span[data-sentence].active {
         transition: color 1s;
         color: #000
 }
 
-.segue.backyard .slides .intro h1 .part {
+.segue.backyard .sections .intro h1 .part {
         transition: none
 }
 
-.backyard .slides .intro h1 br.mobile {
+.backyard .sections .intro h1 br.mobile {
         display: none
 }
 
-.backyard .slides .intro h1 strong {
+.backyard .sections .intro h1 strong {
         color: #000;
         font-weight: 400
 }
 
-.backyard .slides .intro h1 .intro-elevation {
+.backyard .sections .intro h1 .intro-elevation {
         display: inline-block;
         position: relative;
         z-index: 0
 }
 
-.backyard .slides .intro h1 .intro-elevation.mobile {
+.backyard .sections .intro h1 .intro-elevation.mobile {
         display: none
 }
 
-.backyard .slides .intro h1 .intro-elevation img {
+.backyard .sections .intro h1 .intro-elevation img {
         position: absolute;
         top: -.71em;
         transform: translate3d(0, 0, 0);
@@ -2688,30 +2688,30 @@ h6 {
         height: .85em
 }
 
-.backyard .slides .intro h1 .intro-elevation img.loaded {
+.backyard .sections .intro h1 .intro-elevation img.loaded {
         opacity: 1;
         transition: opacity .4s
 }
 
-.backyard .slides .intro .intro-cta {
+.backyard .sections .intro .intro-cta {
         grid-column: col-start 2/span 10
 }
 
-.backyard .slides .intro .intro-cta .not-in-ca {
+.backyard .sections .intro .intro-cta .not-in-ca {
         display: flex;
         gap: 10px
 }
 
-.backyard .slides .intro .intro-cta .not-in-ca a {
+.backyard .sections .intro .intro-cta .not-in-ca a {
         cursor: pointer
 }
 
-.backyard .slides .intro .intro-cta .not-in-ca a:hover {
+.backyard .sections .intro .intro-cta .not-in-ca a:hover {
         opacity: .75;
         color: var(--color-black-60) !important
 }
 
-.backyard .slides .intro .intro-cta .not-in-ca img {
+.backyard .sections .intro .intro-cta .not-in-ca img {
         position: relative;
         left: 5px
 }
@@ -2722,7 +2722,7 @@ h6 {
 }
 
 @media (max-width:768px) {
-        .backyard .slide .intro-carousel-container {
+        .backyard .section .intro-carousel-container {
                 aspect-ratio: 375/521
         }
 
@@ -2736,34 +2736,34 @@ h6 {
                 width: calc(100vw - 44px)
         }
 
-        .backyard .slides .intro-carousel {
-                min-height: unset
+        .backyard .sections .intro-carousel {
+                min-height: 100vh
         }
 
-        .backyard .slides .intro-carousel .desktop {
+        .backyard .sections .intro-carousel .desktop {
                 display: none
         }
 
-        .backyard .slides .intro-carousel .mobile {
+        .backyard .sections .intro-carousel .mobile {
                 display: unset
         }
 
-        .backyard .slides .intro-carousel h1 {
+        .backyard .sections .intro-carousel h1 {
                 margin-bottom: 32px;
                 text-align: center
         }
 
-        .backyard .slides .intro-carousel h1 br {
+        .backyard .sections .intro-carousel h1 br {
                 display: unset
         }
 
-        .backyard .slides .intro {
+        .backyard .sections .intro {
                 grid-template-columns: repeat(6, [col-start] 1fr);
                 gap: 12px;
                 padding: 0 24px
         }
 
-        .backyard .slides .intro-container {
+        .backyard .sections .intro-container {
                 display: flex;
                 grid-column: unset;
                 flex-direction: column;
@@ -2772,39 +2772,39 @@ h6 {
                 width: 100%
         }
 
-        .backyard .slides .intro h1 {
+        .backyard .sections .intro h1 {
                 grid-column: col-start 1/span 6;
                 margin: 0;
                 font-size: 11vw
         }
 
-        .backyard .slides .intro h1 br {
+        .backyard .sections .intro h1 br {
                 display: none
         }
 
-        .backyard .slides .intro h1 br.mobile {
+        .backyard .sections .intro h1 br.mobile {
                 display: unset
         }
 
-        .backyard .slides .intro h1 .intro-elevation.mobile {
+        .backyard .sections .intro h1 .intro-elevation.mobile {
                 display: inline-block
         }
 
-        .backyard .slides .intro h1 .intro-elevation.desktop {
+        .backyard .sections .intro h1 .intro-elevation.desktop {
                 display: none
         }
 
-        .backyard .slides .intro .intro-cta {
+        .backyard .sections .intro .intro-cta {
                 grid-column: col-start 1/span 6;
                 margin: 0;
                 padding-right: 24px
         }
 
-        .backyard .slides .intro .intro-cta h2 {
+        .backyard .sections .intro .intro-cta h2 {
                 display: inline
         }
 
-        .backyard .slides .intro .intro-cta .not-in-ca {
+        .backyard .sections .intro .intro-cta .not-in-ca {
                 flex-direction: column;
                 gap: 0
         }
@@ -2867,13 +2867,13 @@ h6 {
                 text-align: center
         }
 
-        .backyard .slides .as-seen-in img {
+        .backyard .sections .as-seen-in img {
                 opacity: .8;
                 width: auto;
                 height: 3.75vw
         }
 
-        .backyard .slides .as-seen-in img:last-child {
+        .backyard .sections .as-seen-in img:last-child {
                 height: 4.5vw
         }
 }
@@ -2881,7 +2881,7 @@ h6 {
 .banners {
         flex-direction: column;
         background: var(--color-biege);
-        min-height: unset !important
+        min-height: 100vh !important
 }
 
 .banners .modern-grid {
@@ -2970,7 +2970,7 @@ h6 {
 .three-sizes {
         flex-direction: column;
         background: var(--color-biege);
-        min-height: unset !important
+        min-height: 100vh !important
 }
 
 .three-sizes-gradient {
@@ -3403,10 +3403,10 @@ h6 {
         box-sizing: border-box;
         margin: 0 var(--modern-grid-column-margin);
         padding: calc(var(--modern-grid-column-width) + var(--modern-grid-column-gutter));
-        min-height: unset !important
+        min-height: 100vh !important
 }
 
-.backyard .slide.four-simple-steps.desktop-hidden {
+.backyard .section.four-simple-steps.desktop-hidden {
         display: none
 }
 
@@ -3430,7 +3430,7 @@ h6 {
                 scrollbar-width: 0
         }
 
-        .backyard .slide.four-simple-steps.desktop-hidden {
+        .backyard .section.four-simple-steps.desktop-hidden {
                 display: flex
         }
 
@@ -3677,7 +3677,7 @@ h6 {
         width: 100%
 }
 
-.backyard .slide.a-lot-can-happen {
+.backyard .section.a-lot-can-happen {
         position: relative;
         aspect-ratio: 1440/624;
         min-height: unset
@@ -3694,7 +3694,7 @@ h6 {
                 display: none
         }
 
-        .backyard .slide.a-lot-can-happen {
+        .backyard .section.a-lot-can-happen {
                 aspect-ratio: unset
         }
 
@@ -3839,19 +3839,19 @@ h6 {
         width: 100%
 }
 
-.backyard .slides .jealousy {
+.backyard .sections .jealousy {
         position: relative;
         flex-direction: column;
         cursor: pointer;
         aspect-ratio: 1440/870;
-        min-height: unset
+        min-height: 100vh
 }
 
-.backyard .slides .jealousy .column {
+.backyard .sections .jealousy .column {
         align-items: start
 }
 
-.backyard .slides .jealousy .h3 {
+.backyard .sections .jealousy .h3 {
         grid-column: col-start 2/span 3;
         z-index: 2;
         transition: opacity 1s;
@@ -3865,25 +3865,25 @@ h6 {
                 bottom: 30px
         }
 
-        .backyard.complete .slides .jealousy {
+        .backyard.complete .sections .jealousy {
                 border-bottom: 64px solid transparent;
                 background-position: right bottom;
                 aspect-ratio: 375/456
         }
 
-        .backyard .slides .jealousy .h3 {
+        .backyard .sections .jealousy .h3 {
                 grid-column: col-start 1/span 5;
                 margin-top: .8em;
                 font-size: clamp(42px, 3.3vw, 57px)
         }
 }
 
-.backyard .slides .jealousy.active .h3 {
+.backyard .sections .jealousy.active .h3 {
         opacity: 0;
         transition: opacity .5s
 }
 
-.backyard .slides .jealousy ul {
+.backyard .sections .jealousy ul {
         display: flex;
         position: absolute;
         right: 3vw;
@@ -3904,7 +3904,7 @@ h6 {
         list-style-type: none
 }
 
-.backyard .slides .jealousy ul li {
+.backyard .sections .jealousy ul li {
         position: relative;
         cursor: pointer;
         margin: 1px;
@@ -3913,17 +3913,17 @@ h6 {
         padding: 5px 8px 6px
 }
 
-.backyard .slides .jealousy ul li:hover {
+.backyard .sections .jealousy ul li:hover {
         color: rgba(255, 255, 255, .8)
 }
 
-.backyard .slides .jealousy ul li:has(input:checked) {
+.backyard .sections .jealousy ul li:has(input:checked) {
         margin: 0;
         background: var(--color-blue);
         padding: 6px 9px 7px
 }
 
-.backyard .slides .jealousy ul li input {
+.backyard .sections .jealousy ul li input {
         position: absolute;
         opacity: 0;
         cursor: pointer;
@@ -3932,7 +3932,7 @@ h6 {
         height: 100%
 }
 
-.backyard .slides .jealousy .images {
+.backyard .sections .jealousy .images {
         position: absolute;
         z-index: 0;
         width: 100%;
@@ -3940,7 +3940,7 @@ h6 {
         overflow-x: hidden
 }
 
-.backyard .slides .jealousy .images img {
+.backyard .sections .jealousy .images img {
         position: absolute;
         top: 0;
         left: 0;
@@ -3950,28 +3950,28 @@ h6 {
         object-fit: cover
 }
 
-.backyard .slides .jealousy ul:has(input[data-layout=studio]:checked)+.images img:nth-child(2),
-.backyard .slides .jealousy ul:has(input[data-layout=studio]:checked)+.images img:nth-child(3) {
+.backyard .sections .jealousy ul:has(input[data-layout=studio]:checked)+.images img:nth-child(2),
+.backyard .sections .jealousy ul:has(input[data-layout=studio]:checked)+.images img:nth-child(3) {
         opacity: 0;
         z-index: 1;
         transition: opacity 1s
 }
 
-.backyard .slides .jealousy ul:has(input[data-layout=onebed]:checked)+.images img:first-child,
-.backyard .slides .jealousy ul:has(input[data-layout=onebed]:checked)+.images img:nth-child(3) {
+.backyard .sections .jealousy ul:has(input[data-layout=onebed]:checked)+.images img:first-child,
+.backyard .sections .jealousy ul:has(input[data-layout=onebed]:checked)+.images img:nth-child(3) {
         opacity: 0;
         z-index: 1;
         transition: opacity 1s
 }
 
-.backyard .slides .jealousy ul:has(input[data-layout=twobed]:checked)+.images img:first-child,
-.backyard .slides .jealousy ul:has(input[data-layout=twobed]:checked)+.images img:nth-child(2) {
+.backyard .sections .jealousy ul:has(input[data-layout=twobed]:checked)+.images img:first-child,
+.backyard .sections .jealousy ul:has(input[data-layout=twobed]:checked)+.images img:nth-child(2) {
         opacity: 0;
         z-index: 1;
         transition: opacity 1s
 }
 
-.backyard .slide.bento {
+.backyard .section.bento {
         flex-direction: row;
         flex-wrap: wrap;
         gap: 3px;
@@ -3999,12 +3999,12 @@ h6 {
 }
 
 @media (max-width:768px) {
-        .backyard .slides .jealousy ul {
+        .backyard .sections .jealousy ul {
                 right: 3px;
                 bottom: -44px
         }
 
-        .backyard .slides .jealousy .images img {
+        .backyard .sections .jealousy .images img {
                 width: 130%
         }
 
@@ -4511,7 +4511,7 @@ body.faq {
         min-height: unset
 }
 
-.backyard .backyard-faq .slide {
+.backyard .backyard-faq .section {
         flex-direction: column;
         min-height: unset;
         overflow: unset
@@ -4625,7 +4625,7 @@ body.faq {
 }
 
 @media (max-width:768px) {
-        .backyard .backyard-faq .slide .row {
+        .backyard .backyard-faq .section .row {
                 height: unset
         }
 
@@ -5707,7 +5707,7 @@ body.how-it-works {
         background: #fff !important
 }
 
-.backyard .slides .specs {
+.backyard .sections .specs {
         grid-column-gap: 24px;
         display: grid;
         grid-template-columns: repeat(12, [col-start] 1fr);
@@ -5716,25 +5716,25 @@ body.how-it-works {
 }
 
 @media (max-width:768px) {
-        .backyard .slides .specs {
+        .backyard .sections .specs {
                 display: block;
                 padding: 0 24px
         }
 
-        .backyard .slides .specs h1 {
+        .backyard .sections .specs h1 {
                 width: 50%
         }
 
-        .backyard .slides .specs-content-header {
+        .backyard .sections .specs-content-header {
                 display: none !important
         }
 }
 
-.backyard .slides .specs-content {
+.backyard .sections .specs-content {
         grid-column: col-start 2/span 10
 }
 
-.backyard .slides .specs-content-header {
+.backyard .sections .specs-content-header {
         position: sticky;
         top: 0;
         z-index: 100;
@@ -5743,7 +5743,7 @@ body.how-it-works {
         padding-bottom: 30px
 }
 
-.backyard .slides .specs-content-header-backdrop {
+.backyard .sections .specs-content-header-backdrop {
         position: absolute;
         top: 0;
         left: -100px;
@@ -5768,19 +5768,19 @@ body.how-it-works {
         height: auto
 }
 
-.backyard .slides .specs-content hr {
+.backyard .sections .specs-content hr {
         margin: 0;
         border: none;
         border-bottom: var(--color-black-20) 1px solid
 }
 
-.backyard .slides .specs-content a {
+.backyard .sections .specs-content a {
         color: var(--color-blue);
         line-height: 120%;
         text-decoration: none
 }
 
-.backyard .slides .specs-content-row {
+.backyard .sections .specs-content-row {
         display: flex
 }
 
@@ -5789,16 +5789,16 @@ body.how-it-works {
                 display: block
         }
 
-        .backyard .slides .specs-content a {
+        .backyard .sections .specs-content a {
                 display: none !important
         }
 
-        .backyard .slides .specs-content-row {
+        .backyard .sections .specs-content-row {
                 flex-wrap: wrap
         }
 }
 
-.backyard .slides .specs-content-row>div {
+.backyard .sections .specs-content-row>div {
         flex-grow: 0;
         flex-basis: 25%;
         box-sizing: border-box;
@@ -5810,41 +5810,41 @@ body.how-it-works {
                 --tech-specs-column-width: calc((100vw - 5 * 12px - 24px * 2) / 6)
         }
 
-        .backyard .slides .specs-content-row>div {
+        .backyard .sections .specs-content-row>div {
                 flex-grow: unset;
                 flex-basis: unset
         }
 
-        .backyard .slides .specs-content-row>div:first-child {
+        .backyard .sections .specs-content-row>div:first-child {
                 width: calc(36px + calc(var(--tech-specs-column-width) * 2))
         }
 
-        .backyard .slides .specs-content-row>div:nth-child(2) {
+        .backyard .sections .specs-content-row>div:nth-child(2) {
                 padding-right: 0;
                 width: calc(12px + calc(var(--tech-specs-column-width) * 4))
         }
 
-        .backyard .slides .specs-content-row>div:nth-child(3),
-        .backyard .slides .specs-content-row>div:nth-child(4) {
+        .backyard .sections .specs-content-row>div:nth-child(3),
+        .backyard .sections .specs-content-row>div:nth-child(4) {
                 margin-left: calc(36px + calc(var(--tech-specs-column-width) * 2));
                 padding-right: 0;
                 width: calc(12px + calc(var(--tech-specs-column-width) * 4))
         }
 }
 
-.backyard .slides .specs-content-row .specs-content-column-3 {
+.backyard .sections .specs-content-row .specs-content-column-3 {
         flex-basis: 75%
 }
 
 @media (max-width:768px) {
-        .backyard .slides .specs-content-row .specs-content-column-3 {
+        .backyard .sections .specs-content-row .specs-content-column-3 {
                 flex-basis: unset;
                 padding-right: 0;
                 width: calc(12px + calc(var(--tech-specs-column-width) * 4))
         }
 }
 
-.backyard .slides .specs-content-row ul {
+.backyard .sections .specs-content-row ul {
         display: flex;
         flex-direction: column;
         gap: 1em;
@@ -5853,17 +5853,17 @@ body.how-it-works {
         list-style-type: none
 }
 
-.backyard .slides .specs-content-row div+.color-text-40 {
+.backyard .sections .specs-content-row div+.color-text-40 {
         margin-top: .45em;
         line-height: 120% !important
 }
 
-.backyard .slides .specs-content-row div+div a {
+.backyard .sections .specs-content-row div+div a {
         display: inline-block;
         margin-top: 1.5em
 }
 
-.backyard .slides .specs-content-row div+div a img {
+.backyard .sections .specs-content-row div+div a img {
         transform: translateY(-1px)
 }
 
@@ -6086,7 +6086,7 @@ body.how-it-works {
         margin-left: 1px
 }
 
-.backyard .slides .specs-content-row>div:nth-child(2) .specs-content-label {
+.backyard .sections .specs-content-row>div:nth-child(2) .specs-content-label {
         margin-top: 0
 }
 
@@ -6248,19 +6248,20 @@ body.segue {
         background: #fff
 }
 
-.backyard .slides {
+.backyard .sections {
         width: 100vw;
         height: auto
 }
 
-.backyard .slide {
+.backyard .section {
         display: flex;
         position: relative;
         width: 100vw;
-        min-height: 100vh
+        min-height: 100vh;
+        
 }
 
-.backyard .slide .column {
+.backyard .section .column {
         display: grid;
         grid-template-columns: repeat(6, [col-start] 1fr);
         align-items: center;
@@ -6269,12 +6270,12 @@ body.segue {
         width: 50%
 }
 
-.backyard .slide .column:first-child {
+.backyard .section .column:first-child {
         padding-right: 11px;
         padding-left: 3vw
 }
 
-.backyard .slide .column:last-child {
+.backyard .section .column:last-child {
         padding-right: 3vw;
         padding-left: 11px
 }
@@ -6288,18 +6289,18 @@ body.segue {
                 width: calc(var(--modern-grid-column-width) * 5 + var(--modern-grid-column-gutter) * 4)
         }
 
-        .backyard .slide .column {
+        .backyard .section .column {
                 padding: 0 22px;
                 width: 100%
         }
 
-        .backyard .slide .column:first-child,
-        .backyard .slide .column:last-child {
+        .backyard .section .column:first-child,
+        .backyard .section .column:last-child {
                 padding: 0 22px
         }
 }
 
-.backyard .slide .row {
+.backyard .section .row {
         display: grid;
         grid-template-columns: repeat(12, [col-start] 1fr);
         gap: 22px;
@@ -6309,12 +6310,12 @@ body.segue {
         height: 100%
 }
 
-.backyard .slides h1,
-.backyard .slides h2,
-.backyard .slides h3,
-.backyard .slides h4,
-.backyard .slides h5,
-.backyard .slides h6 {
+.backyard .sections h1,
+.backyard .sections h2,
+.backyard .sections h3,
+.backyard .sections h4,
+.backyard .sections h5,
+.backyard .sections h6 {
         margin: 0;
         padding: 0;
         font-weight: 400;
@@ -6343,7 +6344,7 @@ body.segue {
         font-size: clamp(36px, 3vw, 48px)
 }
 
-.backyard .slides p {
+.backyard .sections p {
         margin: 0;
         padding: 0;
         font-size: clamp(18px, 1.25vw, 22px);
@@ -6429,7 +6430,7 @@ a.rounded.yellow {
 }
 
 @media (max-width:768px) {
-        .backyard .slide .row {
+        .backyard .section .row {
                 grid-template-columns: repeat(6, [col-start] 1fr);
                 padding: 0 22px
         }
@@ -7356,7 +7357,7 @@ nav {
 }
 
 @media (min-width:768px) and (max-width:1024px) {
-        .backyard .slides .jealousy .h3 {
+        .backyard .sections .jealousy .h3 {
                 grid-column: col-start 2/span 6
         }
 
@@ -9296,7 +9297,8 @@ html {
         opacity: 1;
         height: fill-available;
         height: -webkit-fill-available;
-        overflow-x: auto
+        overflow-x: auto;
+        
 }
 
 .nobr {
@@ -9363,7 +9365,7 @@ button:focus {
         display: none
 }
 
-body > main > div > div > div.slide.visible.hero {
+body > main > div > div > div.section.visible.hero {
         display:block;
         height: 100vh;
         width: 100vw;
